@@ -6,3 +6,10 @@ Identifying professions, income levels, or other characteristics that correlate 
 
 Income Influence Analysis:
 Exploring the impact of income bracket and specific income levels on fraud rates.
+I start by gathering and cleaning the data, followed by creating pivot tables and charts to
+visualize the fraud pattern across professsions.
+
+Data from kaggle.com
+
+overview of the Dashboard:
+![DASHBOARD](DASHBOARD.png)
